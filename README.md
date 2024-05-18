@@ -51,7 +51,7 @@ SkyPulseUAV is a groundbreaking real-time embedded system project, specifically 
 - [x] Design the Hardware and Software
 - [x] Buy electrical components for the project
 
-#### Binhan Tian
+#### Binhan Tian (antonio.btian@outlook.com)
 - [x] Pitching Day Presentation
 - [x] Motherboard Schematic Design: Power, STM32 Mini System
 - [x] Motherboard PCB Layout
@@ -59,30 +59,13 @@ SkyPulseUAV is a groundbreaking real-time embedded system project, specifically 
 - [x] SkyPulse GroundStation C++ Code Development & UI Design
 - [x] Module Driver Development
 
-#### Jianliang Wu
+#### Jianliang Wu (moxiasgabi@gmail.com)
 - [x] C++ code on Raspberry Pi
 - [x] Debugging sensors to make them work properly and perfectly
 - [x] Deploy Mahony filter algorithm to fuse data from gyroscope and accelerometer
 - [x] Design the control algorithm and tune the PID parameters
 - [x] Create easy-to-use cross-compile environment for users
 - [x] STM32 Development
-
-#### Zhiyan Tong
-- [x] Development and implementation of UAV communication protocols
-- [x] C++ coding for SkyPulse GroundStation operations
-- [x] Integrated SkyPulse_FCS and Device functions into a user-friendly UAV control interface
-- [x] Management of social media platforms
-- [x] Authoring and updating comprehensive README documentation
-
-#### Jiaxing Wang
-
-#### Shilin Zhang
-- [x] Buy Needed Hardware Module: BMP180, MPU6050
-- [x] Motherboard Schemic Design: Port, RF Module
-- [x] Wiki Documentation
-- [x] Update the README Document (Synchronized with the Development Process)
-- [x] Synchronously update the contents of README_ZH.md & README.md (once a week)
-
 
 ### Visual Project Management Plan
 
@@ -124,7 +107,7 @@ Motherboard's hardware design files are stored in the directory.
 - Hardware Design Guide
 
 #### 1.2. SkyPulse_Device
->Developer: JianLiang Wu
+>Developer: Jianliang Wu
 
 The SkyPulse_Device catalog contains code that can be edited and compiled directly using Visual Studio Code. The code is designed to interact with hardware devices and manage device operations. It is designed to run efficiently on a Raspberry Pi, providing the backend logic needed to control all aspects of device functionality. The code structure in this folder supports easy maintenance and scalability, utilizing Visual Studio Code's powerful development tools to ensure high performance and reliability.
 
@@ -327,29 +310,14 @@ change the height and width for each of the contributors from 80 to 50.
 
 <a href="https://github.com/Tony-Btian"><img src="https://avatars.githubusercontent.com/u/139486237?v=4" title="Binhan Tian" width="50" height="50"></a>
 <a href="https://github.com/engineerNg"><img src="https://avatars.githubusercontent.com/u/54659261?v=4" title="iddan" width="50" height="50"></a>
-<a href="https://github.com/Pygmalion0"><img src="https://avatars.githubusercontent.com/u/156678953?v=4" title="tupe12334" width="50" height="50"></a>
-<a href="https://github.com/ShilinZhang1"><img src="https://avatars.githubusercontent.com/u/163417106?v=4" title="abrl91" width="50" height="50"></a>
-<a href="https://github.com/ZhiyanTong"><img src="https://avatars.githubusercontent.com/u/158243670?v=4" title="abrl91" width="50" height="50"></a>
 
 [//]: contributor-faces
-
-### Project Main Contributors
-
-| Name         | ID      | Role                                                                                                                              |
-| ------------ | ------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Binhan Tian  | 2840919 | Embedded Engineer & Hardware Engineer & Project Management                                                                        |
-| Jianliang Wu | 2847947 | Designing and writing C++ codes on Raspberry Pi, fusing data from all sensors, and deploying the PID and Mahonyfilter algorithm.  |
-| Jiaxing Wang |         | Developing communication protocols for the SkyPulseUAV Ground Station and authoring comprehensive README documentation.           |
-| Zhiyan Tong  | 2872426 | Developing Communication protocols, C++ coding for SkyPulse GroundStation, Integrated UAV controls, and authored README for setup |
-| Shilin Zhang |         | Hardware Engineer                                                                                                                 |
 
 ### Contact
 
 If you want to talk about technical issues related to this project, please contact one of us:
 - Binhan Tian: antonio.btian@outlook.com
 - Jianliang Wu: moxiasgabi@gmail.com
-- Jiaxing Wang: ascende_superius@outlook.com
-- Zhiyan Tong: zhiyan.t.career@gmail.com
 
 # License
 MIT License Copyright (c) 2024 Binhan Tian
